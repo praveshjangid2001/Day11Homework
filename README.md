@@ -3,6 +3,10 @@
 
 This is a simple HTML and JavaScript code that allows the user to Calculate Tip .
 
+## Hosted Link
+
+https://praveshjangid2001.github.io/Day11Homework/
+
 ## Step 1: Create the HTML file
 
 The HTML file is responsible for creating the user interface and loading the JavaScript file.
